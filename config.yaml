@@ -1,0 +1,17 @@
+baseURL: "https://ashtephra.com/"
+languageCode: en-us
+title: "ash//tephra records"
+theme: "hugo-theme-hello-friend-ng"
+params:
+  homeSubtitle: "website coming soon"
+  backgroundImage: "img/smoke-lantern-dark.jpg"
+  social:
+    - 
+      name: "twitter"
+      url: "https://twitter.com/ashtephra"
+    - 
+      name: "soundcloud"
+      url: "https://soundcloud.com/ashtephra"
+    - 
+      name: "bandcamp"
+      url: "https://ashtephra.bandcamp.com/"
