@@ -3,7 +3,7 @@ languageCode: en-us
 title: "ash//tephra records"
 theme: "hugo-theme-hello-friend-ng"
 params:
-  homeSubtitle: "website coming soon"
+  homeSubtitle: "coming soon"
   backgroundImage: "img/smoke-lantern-dark.jpg"
   social:
     - 
